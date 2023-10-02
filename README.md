@@ -1,4 +1,4 @@
-# python-mini-projects
+# Python Mini Projects
 
 Welcome to the Python Mini Projects repository! This repository contains a collection of small Python projects that are perfect for learning, practicing, and experimenting with Python programming. Whether you're a beginner looking to improve your Python skills or an experienced developer seeking some fun and creative coding challenges, this repository has something for everyone.
 
@@ -11,3 +11,15 @@ Add your project to the appropriate folder, including a README.md file with clea
 Commit your changes and push them to your fork.
 Create a pull request to merge your changes into the main repository.
 We'll review your contribution and, if it aligns with the goals of this repository, merge it in. Thank you for helping to make this collection of Python mini projects even better!
+
+## Contributors
+<br>
+
+<div align="center">
+<a href="https://github.com/aron-staggy/python-mini-projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aron-staggy/python-mini-projects" />
+</a>
+</div>
+
+## License
+This repository is licensed under the MIT License. Feel free to use the code and projects in any way you like, but please provide proper attribution.
